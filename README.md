@@ -5,10 +5,10 @@ Em 2022 adquirir uma impressora 3D Ender 3. Particulamente eu tenho uma paixão 
 O robô é bem simples, utiliza o Arduino para controle e pode receber comandos via Bluetooth, porém, a sua criatividade pode te dar muitas novas funcionalidades!
 
 ## Introdução
-O projeto é simples, através do canal no YouTube [3DELWORLD}(https://www.youtube.com/@3DELWORLD) é possível ver todo o processo de impressão e montagem do sistema. A aplicação é simplificada e de fácil reprodução.
+O projeto é simples, através do canal no YouTube [3DELWORLD](https://www.youtube.com/@3DELWORLD) é possível ver todo o processo de impressão e montagem do sistema. A aplicação é simplificada e de fácil reprodução.
 
 ## Peças 3D
-A lista completa de peças 3D pode ser encontrada e baixadas no site [Thingiverse}(https://www.thingiverse.com/thing:2662828).
+A lista completa de peças 3D pode ser encontrada e baixadas no site [Thingiverse](https://www.thingiverse.com/thing:2662828).
 
 ## Hardware
 Para a construção deste robô você precisará das seguintes peças (componentes eletrônicos):
@@ -23,10 +23,10 @@ Para a construção deste robô você precisará das seguintes peças (component
 ## Código
 O arquivo **'ControleBluetoothRobo.ino'** contém o algoritmo para realizar o controle do robô através do celular. Basta fazer o upload do arquivo para seu Arduino utilizando o Arduino IDE. O App utilizado para enviar comandos pelo celular é o **'Bluetooth RC Controller'** e pode ser encontrado facilmente na Play Store.
 ## Screenshots
-- Robô com sensor ultrassônico
+- Robô com sensor ultrassônico <br>
 ![image](https://github.com/IagoMagalhaes23/Rob-Arduino/assets/65053026/2dd6e6e4-6c65-4b28-84ba-1808981784b6)
 
-- Robô com modulo Bluetooth
+- Robô com modulo Bluetooth <br>
 ![image](https://github.com/IagoMagalhaes23/Rob-Arduino/assets/65053026/efd253fb-269a-4359-9a89-68b373054af9)
 
 ## Conclusão
