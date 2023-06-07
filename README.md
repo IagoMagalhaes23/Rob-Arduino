@@ -30,6 +30,8 @@ O arquivo **'ControleBluetoothRobo.ino'** contém o algoritmo para realizar o co
 ![image](https://github.com/IagoMagalhaes23/Rob-Arduino/assets/65053026/efd253fb-269a-4359-9a89-68b373054af9)
 
 ## Conclusão
+Ao final, o robô ficou muito fofinho e ficando com os jovens da familia. É projeto muito divertido de se realizar e intuitivo.
+![image](https://github.com/IagoMagalhaes23/Rob-Arduino/assets/65053026/09305bdc-5013-49b5-b576-ad658e7b7b46)
 
 ## Referências
 - [3D Printing Meets Robotics: How to Make Your Own SMARS Robot #3dprinting](https://www.youtube.com/watch?v=mft36w5Hl1I&list=LL&index=70&t=5s)
